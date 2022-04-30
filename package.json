@@ -1,7 +1,7 @@
 {
-  "name": "vuepressadmin-templates-reco-v1",
+  "name": "vuepress-templates-reco-v1",
   "version": "1.0.0",
-  "description": "VuePressAdmin使用的模板，使用VuePress 1.x + reco theme 1.x",
+  "description": "使用VuePress 1.x + reco theme 1.x",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
